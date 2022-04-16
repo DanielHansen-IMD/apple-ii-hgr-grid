@@ -1,5 +1,5 @@
 # Apple II HGR2 Grid
-I wanted to recreate the Ladd Company logo on my Apple II in HGR2 mode in Applesoft BASIC. I got tired of trying to figure out what co-ordinates I needed when using HPLOT, so I made a little web tool to help visualize the co-ordinates. 
+I wanted to recreate the Ladd Company logo on my Apple II in HGR2 mode in Applesoft BASIC. I got tired of trying to figure out what co-ordinates I needed for HPLOT, so I made a little web tool to help visualize the co-ordinates. 
 
 This is a simple little page that constructs a 280x192 grid (the Apple II's HGR2 pixel dimensions), and a tooltip in each grid area that provides its X,Y co-ordinates on hover. There's a little toggle to show or hide the grid.  
 
